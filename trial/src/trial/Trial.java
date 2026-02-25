@@ -9,7 +9,7 @@ public class Trial extends JFrame {
     Trial() {
         super("Main");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(1000, 1000);
+        setSize(3000, 1000);
         setLocationRelativeTo(null);
         setLayout(new BorderLayout());
 
